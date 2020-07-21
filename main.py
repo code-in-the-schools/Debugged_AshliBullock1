@@ -24,8 +24,8 @@ for i in listOfOrders:
 
   "if myOrder == Yes and i = 1:"
   number = int(input("How many would you like"))
- for a in range (number)
-      price = price + 2.5
+for a in range (number
+    price = price + 2.5
 
   if myOrder == "Yes" and i = 2:
     number = int(input("How many would you like?"))
